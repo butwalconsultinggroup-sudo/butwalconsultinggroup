@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://butwalconsultinggroup.com/sitemap.xml
+Sitemap: https://butwalconsultinggroup.com.np/sitemap.xml
